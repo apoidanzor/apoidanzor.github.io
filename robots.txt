@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://apoidanzor.github.io/sitemap
+Sitemap: https://apoidanzor.github.io/app/sitemap
+Sitemap: https://apoidanzor.github.io/assets/sitemap
+Sitemap: https://apoidanzor.github.io/css/sitemap
+Sitemap: https://apoidanzor.github.io/includes/sitemap
+Sitemap: https://apoidanzor.github.io/item/sitemap
+Sitemap: https://apoidanzor.github.io/src/sitemap
